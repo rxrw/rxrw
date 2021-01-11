@@ -12,7 +12,8 @@
 > An All-Platform Developer, including `go`, `php`, `python`, `java`, `javascript`, `c`, `c++`, `dart`, maybe more~
 
 I'd like [reuixiy](https://github.com/reuixiy)! 😘
-Can I have your tel?
+
+Can I have your wechat or some else? 😳
 <!--
 
 Here are some ideas to get you started:
