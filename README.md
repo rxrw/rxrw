@@ -1,7 +1,18 @@
 ### Hi there 👋
 
+
+`reprover` is replaced due to [`rxrw@me.com`](mailto:rxrw@me.com) 😏
+
+
+**rxrw** is a ✨ _special_ ✨ name not only its fullname can be [`꧁꫞꯭若꯭꯭꯭星꯭꯭꯭若꯭꯭꯭望꯭꯭꯭꫞꧂`](https://rxrw.me)
+
+
+**IT'S ALL MINE!**
+
+> An All-Platform Developer, including `go`, `php`, `python`, `java`, `javascript`, `c`, `c++`, `dart`, maybe more~
+
+I'd like [reuixiy](https://github.com/reuixiy)! 😘
 <!--
-**rxrw/rxrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
