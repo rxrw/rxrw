@@ -13,7 +13,7 @@
 
 I'd like to like [reuixiy](https://github.com/reuixiy)! 😘
 
-Can I have your wechat or some else? 😳
+Can I have your wechat? 😳
 <!--
 
 Here are some ideas to get you started:
