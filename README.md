@@ -14,9 +14,9 @@ I'd like to like [reuixiy](https://github.com/reuixiy)! 😘
 Can I have your tel? 😳
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rxrw&theme=solarized-dark&show_icons=true" />
+<a href="https://github.com/rxrw/github-readme-stats">
+  <img align="center" src="https://github-readme-rxrw.vercel.app/api?username=rxrw&theme=solarized-dark&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxrw&layout=compact&theme=solarized-dark" />
+<a href="https://github.com/rxrw/github-readme-stats">
+  <img align="center" src="https://github-readme-rxrw.vercel.app/api/top-langs/?username=rxrw&layout=compact&theme=solarized-dark" />
 </a>
