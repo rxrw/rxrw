@@ -9,11 +9,6 @@
 
 **IT'S ALL MINE!**
 
-I'd like to like [reuixiy](https://github.com/reuixiy)! 😘
-
-Can I have your tel? 😳
-
-
 <a href="https://github.com/rxrw/github-readme-stats">
   <img align="center" src="https://github-readme-rxrw.vercel.app/api?username=rxrw&theme=solarized-dark&show_icons=true" />
 </a>
