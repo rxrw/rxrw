@@ -9,19 +9,14 @@
 
 **IT'S ALL MINE!**
 
-Github In Year
-<br>
 <a href="https://github.com/rxrw/github-readme-stats">
   <img align="center" src="https://github-readme-rxrw.vercel.app/api?username=rxrw&theme=solarized-dark&show_icons=true" />
 </a>
-<hr>
-Language In Github
-<br>
 <a href="https://github.com/rxrw/github-readme-stats">
   <img align="center" src="https://github-readme-rxrw.vercel.app/api/top-langs/?username=rxrw&layout=compact&theme=solarized-dark" />
 </a>
 <hr>
 
-Recently Watched Tracked by **Trackt**
+I was watching... Tracked by **Trackt**
 
 <a target="_blank" href="https://trakt.tv/users/reprover"><img width="500" height="281" alt="reprover" src="https://widgets.trakt.tv/users/5cef049453dbd3d4fd05aa614b230f07/watched/fanart2@2x.jpg" /></a>
