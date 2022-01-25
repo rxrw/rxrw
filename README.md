@@ -15,8 +15,11 @@
 <a href="https://github.com/rxrw/github-readme-stats">
   <img align="center" src="https://github-readme-rxrw.vercel.app/api/top-langs/?username=rxrw&layout=compact&theme=solarized-dark" />
 </a>
+<a href="https://github.com/rxrw/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rxrw&theme=solarized-dark" />
+</a>
+
 <hr>
-[![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rxrw)](https://github.com/rxrw/github-readme-stats)
 
 I was watching... Tracked by **Trackt**
 
